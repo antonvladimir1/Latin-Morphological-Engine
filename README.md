@@ -2,7 +2,7 @@
 
 **ECCE LOGOS** is a comprehensive is a comprehensive, rules-based engine written in Python for the complete morphological generation of Latin verbs.
 
-Unlike a dictionary lookup, ECCE LOGOS is a Latin *Brain*. Using its knowledge of phonetics and prosody, it constructs the entire paradigm of a given verb, often generating over 500 unique forms, from just four principal parts and a set of linguistic tags. It is designed to master the vast field of irregularities in macron placement, consonant assimilation, and vowel reduction.
+Unlike a dictionary lookup, **ECCE LOGOS** is a Latin *Brain*. Using its knowledge of phonetics and prosody, it constructs the entire paradigm of a given verb, often generating over 500 unique forms, from just four principal parts and a set of linguistic tags. It is designed to master the vast field of irregularities in macron placement, consonant assimilation, and vowel reduction.
 
 The knowledge base of the engine contains 2,799 verbs, meticulously curated from the entire lexicon used by the orator Cicero.
 
