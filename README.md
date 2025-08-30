@@ -10,13 +10,14 @@ The knowledge base of the engine contains 2,799 verbs, meticulously curated from
 ### Demo
 
 The home screen:
-![[Ecce Logos 1.jpg]]
+![Ecce Logos 1](https://github.com/user-attachments/assets/3edbae71-3408-49e6-b390-2cf49fb19d65)
 
-search for a verb:
-![[Ecce Logos 2.jpg]]
 
-extensive tags [which are all used to generate the paradigms]
-![[Ecce Logos 3.jpg]]
+search for a verb:![Ecce Logos 2](https://github.com/user-attachments/assets/dd7db9ba-9d7c-4743-b163-f34e0d2dff0e)
+
+
+extensive tags [which are all used to generate the paradigms]: ![Ecce Logos 3](https://github.com/user-attachments/assets/40149e9d-fcf2-4e7d-8c91-7938b0c30c3f)
+
 
 ---
 ### Architecture & Key Features
