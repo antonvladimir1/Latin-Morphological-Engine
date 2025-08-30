@@ -1,0 +1,254 @@
+{
+    "sum": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["sum", "es", "est", "sumus", "estis", "sunt"],
+            "Imperfect": ["eram", "erās", "erat", "erāmus", "erātis", "erant"],
+            "Future": ["erō", "eris", "erit", "erimus", "eritis", "erunt"]
+        },
+        "SUBJUNCTIVE ACTIVE": {
+            "Present": ["sim / siem / fuam", "sīs / siēs / fuās", "sit / siet / fuat", "sīmus / siēmus / fuāmus", "sītis / siētis / fuātis", "sint / sient / fuant"],
+            "Imperfect": ["essem / forem", "essēs / forēs", "esset / foret", "essēmus / forēmus", "essētis / forētis", "essent / forent"]
+        },
+        "IMPERATIVES": {
+            "Pres Act": ["es", "Ø", "este", "Ø"],
+            "Fut Act": ["estō", "estō", "estōte", "suntō"]
+        }
+    },
+    "possum": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["possum", "potes", "potest", "possumus", "potestis", "possunt"],
+            "Imperfect": ["poteram", "poterās", "poterat", "poterāmus", "poterātis", "poterant"],
+            "Future": ["poterō", "poteris", "poterit", "poterimus", "poteritis", "poterunt"]
+        },
+        "SUBJUNCTIVE ACTIVE": {
+            "Present": ["possim", "possīs", "possit", "possīmus", "possītis", "possint"],
+            "Imperfect": ["possem", "possēs", "posset", "possēmus", "possētis", "possent"]
+        },
+        "NON-FINITE": {
+            "PARTICIPLES": {
+                "PAP": {
+                    "M/F": {"Nom Sg": "potēns", "Gen Sg": "potentis", "Dat Sg": "potentī", "Acc Sg": "potentem", "Abl Sg": "potente", "Nom Pl": "potentēs", "Gen Pl": "potentium", "Dat Pl": "potentibus", "Acc Pl": "potentēs", "Abl Pl": "potentibus"},
+                    "N": {"Nom Sg": "potēns", "Gen Sg": "potentis", "Dat Sg": "potentī", "Acc Sg": "potēns", "Abl Sg": "potente", "Nom Pl": "potentia", "Gen Pl": "potentium", "Dat Pl": "potentibus", "Acc Pl": "potentia", "Abl Pl": "potentibus"}
+                }
+            }
+        }
+    },
+    "eō": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["eō", "īs", "it", "īmus", "ītis", "eunt"],
+            "Imperfect": ["ībam", "ībās", "ībat", "ībāmus", "ībātis", "ībant"],
+            "Future": ["ībō", "ībis", "ībit", "ībimus", "ībitis", "ībunt"],
+            "Perfect": ["īvī / iī", "īvistī / iistī", "īvit / iit", "īvimus / iimus", "īvistis / iistis", "īvērunt / iērunt / iēre"],
+            "Pluperfect": ["īveram / ieram", "īverās / ierās", "īverat / ierat", "īverāmus / ierāmus", "īverātis / ierātis", "īverant / ierant"],
+            "Future Perfect": ["īverō / ierō", "īveris / ieris", "īverit / ierit", "īverimus / ierimus", "īveritis / ieritis", "īverint / ierint"]
+        },
+        "SUBJUNCTIVE ACTIVE": {
+            "Present": ["eam", "eās", "eat", "eāmus", "eātis", "eant"],
+            "Imperfect": ["īrem", "īrēs", "īret", "īrēmus", "īrētis", "īrent"],
+            "Perfect": ["īverim / ierim", "īverīs / ierīs", "īverit / ierit", "īverīmus / ierīmus", "īverītis / ierītis", "īverint / ierint"],
+            "Pluperfect": ["īvissem / iissem", "īvissēs / iissēs", "īvisset / iisset", "īvissēmus / iissēmus", "īvissētis / iissētis", "īvissent / iissent"]
+        },
+        "INDICATIVE PASSIVE": {
+            "Present": ["Ø", "Ø", "ītur", "Ø", "Ø", "Ø"],
+            "Imperfect": ["Ø", "Ø", "ībātur", "Ø", "Ø", "Ø"],
+            "Future": ["Ø", "Ø", "ībitur", "Ø", "Ø", "Ø"]
+        },
+        "SUBJUNCTIVE PASSIVE": {
+            "Present": ["Ø", "Ø", "eātur", "Ø", "Ø", "Ø"],
+            "Imperfect": ["Ø", "Ø", "īrētur", "Ø", "Ø", "Ø"]
+        },
+        "IMPERATIVES": {
+            "Pres Act": ["ī", "Ø", "īte", "Ø"],
+            "Pres Pass": ["īre", "Ø", "īminī", "Ø"],
+            "Fut Act": ["ītō", "ītō", "ītōte", "euntō"],
+            "Fut Pass": ["Ø", "Ø", "Ø", "euntor"]
+        },
+        "NON-FINITE": {
+            "INFINITIVES": {
+                "Perf Act": "īvisse / iisse"
+            },
+            "GERUND": {
+                "Gen": "eundī", "Dat": "eundō", "Acc": "eundum", "Abl": "eundō"
+            },
+            "GERUND (-undus form)": {
+                "Gen": "eundī", "Dat": "eundō", "Acc": "eundum", "Abl": "eundō"
+            },
+            "PARTICIPLES": {
+                 "PAP": {
+                    "M/F": {"Nom Sg": "iēns", "Gen Sg": "euntis", "Dat Sg": "euntī", "Acc Sg": "euntem", "Abl Sg": "eunte", "Nom Pl": "euntēs", "Gen Pl": "euntium", "Dat Pl": "euntibus", "Acc Pl": "euntēs", "Abl Pl": "euntibus"},
+                    "N": {"Nom Sg": "iēns", "Gen Sg": "euntis", "Dat Sg": "euntī", "Acc Sg": "iēns", "Abl Sg": "eunte", "Nom Pl": "euntia", "Gen Pl": "euntium", "Dat Pl": "euntibus", "Acc Pl": "euntia", "Abl Pl": "euntibus"}
+                },
+                 "FPP (Gerundive)": {
+                    "M": {"Nom Sg": "eundus", "Gen Sg": "eundī", "Dat Sg": "eundō", "Acc Sg": "eundum", "Abl Sg": "eundō", "Nom Pl": "eundī", "Gen Pl": "eundōrum", "Dat Pl": "eundīs", "Acc Pl": "eundōs", "Abl Pl": "eundīs"},
+                    "F": {"Nom Sg": "eunda", "Gen Sg": "eundae", "Dat Sg": "eundae", "Acc Sg": "eundam", "Abl Sg": "eundā", "Nom Pl": "eundae", "Gen Pl": "eundārum", "Dat Pl": "eundīs", "Acc Pl": "eundās", "Abl Pl": "eundīs"},
+                    "N": {"Nom Sg": "eundum", "Gen Sg": "eundī", "Dat Sg": "eundō", "Acc Sg": "eundum", "Abl Sg": "eundō", "Nom Pl": "eunda", "Gen Pl": "eundōrum", "Dat Pl": "eundīs", "Acc Pl": "eunda", "Abl Pl": "eundīs"}
+                },
+                 "FPP (Gerundive -undus form)": {
+                    "M": {"Nom Sg": "eundus", "Gen Sg": "eundī", "Dat Sg": "eundō", "Acc Sg": "eundum", "Abl Sg": "eundō", "Nom Pl": "eundī", "Gen Pl": "eundōrum", "Dat Pl": "eundīs", "Acc Pl": "eundōs", "Abl Pl": "eundīs"},
+                    "F": {"Nom Sg": "eunda", "Gen Sg": "eundae", "Dat Sg": "eundae", "Acc Sg": "eundam", "Abl Sg": "eundā", "Nom Pl": "eundae", "Gen Pl": "eundārum", "Dat Pl": "eundīs", "Acc Pl": "eundās", "Abl Pl": "eundīs"},
+                    "N": {"Nom Sg": "eundum", "Gen Sg": "eundī", "Dat Sg": "eundō", "Acc Sg": "eundum", "Abl Sg": "eundō", "Nom Pl": "eunda", "Gen Pl": "eundōrum", "Dat Pl": "eundīs", "Acc Pl": "eunda", "Abl Pl": "eundīs"}
+                }
+            }
+        }
+    },
+    "ferō": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["ferō", "fers", "fert", "ferimus", "fertis", "ferunt"]
+        },
+        "SUBJUNCTIVE ACTIVE": {
+            "Imperfect": ["ferrem", "ferrēs", "ferret", "ferrēmus", "ferrētis", "ferrent"]
+        },
+        "INDICATIVE PASSIVE": {
+            "Present": ["feror", "ferris / ferre", "fertur", "ferimur", "feriminī", "feruntur"]
+        },
+        "SUBJUNCTIVE PASSIVE": {
+            "Imperfect": ["ferrer", "ferrēris / ferrēre", "ferrētur", "ferrēmur", "ferrēminī", "ferrentur"]
+        },
+        "IMPERATIVES": {
+            "Pres Act": ["fer", "Ø", "ferte", "Ø"],
+            "Pres Pass": ["ferre", "Ø", "feriminī", "Ø"],
+            "Fut Act": ["fertō", "fertō", "fertōte", "feruntō"],
+            "Fut Pass": ["fertor", "fertor", "Ø", "feruntor"]
+        }
+    },
+    "volō": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["volō", "vīs", "vult", "volumus", "vultis", "volunt"],
+            "Imperfect": ["volēbam", "volēbās", "volēbat", "volēbāmus", "volēbātis", "volēbant"],
+            "Future": ["volam", "volēs", "volet", "volēmus", "volētis", "volent"]
+        },
+        "SUBJUNCTIVE ACTIVE": {
+            "Present": ["velim", "velīs", "velit", "velīmus", "velītis", "velint"],
+            "Imperfect": ["vellem", "vellēs", "vellet", "vellēmus", "vellētis", "vellent"]
+        }
+    },
+    "nōlō": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["nōlō", "nōn vīs", "nōn vult", "nōlumus", "nōn vultis", "nōlunt"],
+            "Imperfect": ["nōlēbam", "nōlēbās", "nōlēbat", "nōlēbāmus", "nōlēbātis", "nōlēbant"],
+            "Future": ["nōlam", "nōlēs", "nōlet", "nōlēmus", "nōlētis", "nōlent"]
+        },
+        "SUBJUNCTIVE ACTIVE": {
+            "Present": ["nōlim", "nōlīs", "nōlit", "nōlīmus", "nōlītis", "nōlint"],
+            "Imperfect": ["nōllem", "nōllēs", "nōllet", "nōllēmus", "nōllētis", "nōllent"]
+        },
+        "IMPERATIVES": {
+            "Pres Act": ["nōlī", "Ø", "nōlīte", "Ø"],
+            "Fut Act": ["nōlītō", "nōlītō", "nōlītōte", "nōluntō"]
+        }
+    },
+    "mālō": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["mālō", "māvīs", "māvult", "mālumus", "māvultis", "mālunt"],
+            "Imperfect": ["mālēbam", "mālēbās", "mālēbat", "mālēbāmus", "mālēbātis", "mālēbant"],
+            "Future": ["mālam", "mālēs", "mālet", "mālēmus", "mālētis", "mālent"]
+        },
+        "SUBJUNCTIVE ACTIVE": {
+            "Present": ["mālim", "mālīs", "mālit", "mālīmus", "mālītis", "mālint"],
+            "Imperfect": ["māllem", "māllēs", "māllet", "māllēmus", "māllētis", "māllent"]
+        }
+    },
+    "fīō": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["fīō", "fīs", "fit", "fīmus", "fītis", "fīunt"],
+            "Imperfect": ["fīēbam", "fīēbās", "fīēbat", "fīēbāmus", "fīēbātis", "fīēbant"],
+            "Future": ["fīam", "fīēs", "fīet", "fīēmus", "fīētis", "fīent"]
+        },
+        "SUBJUNCTIVE ACTIVE": {
+            "Present": ["fīam", "fīās", "fīat", "fīāmus", "fīātis", "fīant"],
+            "Imperfect": ["fierem", "fierēs", "fieret", "fierēmus", "fierētis", "fierent"]
+        },
+        "IMPERATIVES": {
+            "Pres Act": ["fī", "Ø", "fīte", "Ø"]
+        }
+    },
+    "faciō": {
+        "INDICATIVE PASSIVE": {
+            "Present": ["fīō", "fīs", "fit", "fīmus", "fītis", "fīunt"],
+            "Imperfect": ["fīēbam", "fīēbās", "fīēbat", "fīēbāmus", "fīēbātis", "fīēbant"],
+            "Future": ["fīam", "fīēs", "fīet", "fīēmus", "fīētis", "fīent"]
+        },
+        "SUBJUNCTIVE PASSIVE": {
+            "Present": ["fīam", "fīās", "fīat", "fīāmus", "fīātis", "fīant"],
+            "Imperfect": ["fierem", "fierēs", "fieret", "fierēmus", "fierētis", "fierent"]
+        },
+        "IMPERATIVES": {
+            "Pres Act": ["fac", "Ø", "facite", "Ø"],
+            "Pres Pass": ["fī", "Ø", "fīte", "Ø"],
+            "Fut Pass": ["fītō", "fītō", "Ø", "fīuntō"]
+        },
+        "NON-FINITE": {
+            "INFINITIVES": {
+                "Pres Pass": "fierī"
+            }
+        }
+    },
+    "dō": {
+        "SUBJUNCTIVE ACTIVE": {
+            "Present": ["dem", "dēs", "det", "dēmus", "dētis", "dent"],
+            "Imperfect": ["darem", "darēs", "daret", "darēmus", "darētis", "darent"]
+        },
+        "SUBJUNCTIVE PASSIVE": {
+            "Present": ["der", "dēris / dēre", "dētur", "dēmur", "dēminī", "dentur"]
+        }
+    },
+    "edō": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["edō", "edis / ēs", "edit / ēst", "edimus", "editis / ēstis", "edunt"]
+        },
+        "SUBJUNCTIVE ACTIVE": {
+            "Imperfect": ["ederem / essem", "ederēs / essēs", "ederet / esset", "ederēmus / essēmus", "ederētis / essētis", "ederent / essent"]
+        },
+        "INDICATIVE PASSIVE": {
+            "Present": ["edor", "ederis", "editur / ēstur", "edimur", "ediminī", "eduntur"]
+        },
+        "IMPERATIVES": {
+            "Pres Act": ["ede / ēs", "Ø", "edite / este", "Ø"]
+        }
+    },
+    "aiō": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["aiō", "ais", "ait", "Ø", "Ø", "aiunt"],
+            "Imperfect": ["āiēbam", "āiēbās", "āiēbat", "āiēbāmus", "āiēbātis", "āiēbant"],
+            "Perfect": ["Ø", "aīstī", "aīt", "Ø", "Ø", "Ø"]
+        },
+        "SUBJUNCTIVE ACTIVE": {
+            "Present": ["āiam", "āiās", "āiat", "Ø", "Ø", "āiant"]
+        },
+        "IMPERATIVES": {
+            "Pres Act": ["aī", "Ø", "Ø", "Ø"]
+        }
+    },
+    "inquam": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["inquam", "inquis", "inquit", "inquimus", "Ø", "inquiunt"],
+            "Future": ["Ø", "inquiēs", "inquiet", "Ø", "Ø", "Ø"],
+            "Perfect": ["Ø", "inquīstī", "inquit", "Ø", "Ø", "Ø"]
+        },
+        "IMPERATIVES": {
+            "Pres Act": ["inque", "Ø", "Ø", "Ø"],
+            "Fut Act": ["inquitō", "inquitō", "Ø", "Ø"]
+        }
+    },
+    "ōdī": {},
+    "meminī": {
+        "IMPERATIVES": {
+            "Pres Act": ["mementō", "Ø", "mementōte", "Ø"],
+            "Fut Act": ["mementō", "mementō", "mementōte", "Ø"]
+        }
+    },
+    "for": {
+        "INDICATIVE ACTIVE": {
+            "Present": ["for", "fāris / fāre", "fātur", "fāmur", "fāminī", "fantur"]
+        },
+        "SUBJUNCTIVE ACTIVE": {
+            "Present": ["fer", "fēris / fēre", "fētur", "fēmur", "fēminī", "fentur"]
+        }
+    },
+    "coepī": {},
+    "stō": {
+        "SUBJUNCTIVE ACTIVE": {
+            "Present": ["stem", "stēs", "stet", "stēmus", "stētis", "stent"]
+        }
+    }
+}
