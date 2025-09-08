@@ -103,3 +103,5 @@ The vast majority of verb paradigms are generated without error. My current deve
 > - **Feature Enhancement:** Expanding the hard-coded paradigms for a handful of highly irregular verbs.
 
 These issues are well understood, and I have a clear path to implementing the solutions in the next version.
+
+MIT License: Anton Vladimir
